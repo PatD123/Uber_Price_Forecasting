@@ -1,8 +1,8 @@
 from flask import Flask, redirect, request, render_template
 from uber_rides.auth import AuthorizationCodeGrant
 
-CLIENT_ID = "WUZMtsyDG7SVdkfJvD4hi6M41yZnIPFS"
-CLIENT_SECRET = "zbUY2Haak5v8b9rqWX4_zSX8z-ZFw3IjJD6TLluV"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 REDIRECT_URL = "http://127.0.0.1:8000"
 
 
